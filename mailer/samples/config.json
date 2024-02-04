@@ -1,0 +1,7 @@
+{
+    "smtp_host": "localhost",
+    "smtp_port": "1025",
+    "smtp_username": "",
+    "smtp_password_env_var": "SMTP_PASSWORD"
+  }
+  
